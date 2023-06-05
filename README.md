@@ -1,5 +1,5 @@
 # File Praktikum Algoritma Pemrograman Semester 4
-> Oleh Panji Ramadanu Program Studi Sistem Informasi :)
+> Oleh Panji Ramadanu Program Studi Sistem Informasi
 
 
 Institut Teknologi Kalimantan
